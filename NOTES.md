@@ -1,14 +1,18 @@
-# neoLegacy v1.0.4b
+# neoLegacy v1.0.8b
 
 ### Bug Fixes
-- Fixed Podzol bottom face displaying incorrect texture (was using side texture instead of dirt)
+- Game has been heavily optimized; expect more FPS.
+- Fullscreen option is now correctly applied on startup.
+- `/kill` now kills the player in creative.
+- Boat now follows the player correctly when speeding.
+- Ocelots can now be tamed.
+- Elytras and items are now rendered correctly when on an armor stand.
 
 ### Changes
-- Cursor icon now changes when hovering over different UI elements
+- Added new logo (made by rdust).
 - Added TU31 parity changes which include:
-  - Creepers can now be ignited with Flint and Steel
-  - Village gravel roads now have Cobblestone underneath
-  - Villagers now transform into Witches when struck by lightning
+  - Dye recipes using flowers.
+  - Prismarine block animation.
 
 <img width="784" height="410" alt="roadmap" src="https://github.com/user-attachments/assets/134856ae-b151-4003-aa97-7ecf19ccd278" />
 
